@@ -1,8 +1,8 @@
-# (Application Name)
+# Plant Power
 
-#### (Brief Description of Application)
+#### A simple game where you can feed and water different plants!
 
-#### By Dani Renner
+#### By Dani Renner and Joey Giunta
 
 ## Technologies Used
 
@@ -19,6 +19,7 @@
 * popper.js
 
 ## Description
+_This project was build using lessons from Epicodus. We are practicing functional programming and abstraction._
 
 ## Setup/Installation Requirements
 
@@ -37,10 +38,11 @@
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright © 2021 Dani Renner
+Copyright © 2021 Dani Renner and Joey Giunta
 
 All Rights Reserved
 
 ## Contact Information
 
 Dani Renner danijrenner@gmail.com
+Joey Giunta jgnohack@gmail.com
